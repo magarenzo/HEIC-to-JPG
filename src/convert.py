@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/63866180/how-to-convert-from-heic-to-jpg-in-python-on-windows
